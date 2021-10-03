@@ -1,16 +1,18 @@
 {
-  "name": "vlessheroku",
-  "description": "Deploy vless on Heroku.",
+  "name": "vle",
+  "description": "Deploy vless .",
   "keywords": [
-    "vless"
+    "vle"
   ],
   "env": {
     "UUID": {
-      "description": "VLESS UUID",
-      "value": "3a53a3e5-da83-48d2-aee9-d88a498eb3dd"
+      "description": "UUID",
+      "value": "
+
+cb7c2f05-9747-4fcf-8e21-0b020c78f8fc"
     }
   },
-  "website": "https://github.com/GeekNAUer/",
-  "repository": "https://github.com/GeekNAUer/vlessheroku",
+  "website": "https://github.com/QAWSDUI3/",
+  "repository": "https://github.com/QAWSDUI3/oopp",
   "stack": "container"
 }
